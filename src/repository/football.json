@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1,
+    "name": "Kylian Mbappé",
+    "club": "Real Madrid",
+    "position": "Atacante",
+    "nationality": "Francesa",
+    "statistics": {
+      "matches": 10,
+      "goals": 8,
+      "assists": 2,
+      "shotsOnTarget": 20,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "position": "Atacante",
+    "nationality": "Brasileira",
+    "statistics": {
+      "matches": 9,
+      "goals": 5,
+      "assists": 4,
+      "shotsOnTarget": 14,
+      "yellowCards": 2,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "position": "Meio-campista",
+    "nationality": "Inglesa",
+    "statistics": {
+      "matches": 9,
+      "goals": 3,
+      "assists": 3,
+      "shotsOnTarget": 8,
+      "yellowCards": 2,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 4,
+    "name": "Harry Kane",
+    "club": "Bayern München",
+    "position": "Atacante",
+    "nationality": "Inglesa",
+    "statistics": {
+      "matches": 10,
+      "goals": 7,
+      "assists": 2,
+      "shotsOnTarget": 18,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jamal Musiala",
+    "club": "Bayern München",
+    "position": "Meio-campista",
+    "nationality": "Alemã",
+    "statistics": {
+      "matches": 8,
+      "goals": 3,
+      "assists": 4,
+      "shotsOnTarget": 7,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 6,
+    "name": "Manuel Neuer",
+    "club": "Bayern München",
+    "position": "Goleiro",
+    "nationality": "Alemã",
+    "statistics": {
+      "matches": 8,
+      "goals": 0,
+      "assists": 0,
+      "shotsOnTarget": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "saves": 22,
+      "cleanSheets": 3
+    }
+  },
+  {
+    "id": 7,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "position": "Atacante",
+    "nationality": "Norueguesa",
+    "statistics": {
+      "matches": 9,
+      "goals": 6,
+      "assists": 1,
+      "shotsOnTarget": 16,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 8,
+    "name": "Phil Foden",
+    "club": "Manchester City",
+    "position": "Meio-campista",
+    "nationality": "Inglesa",
+    "statistics": {
+      "matches": 8,
+      "goals": 3,
+      "assists": 2,
+      "shotsOnTarget": 9,
+      "yellowCards": 0,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 9,
+    "name": "Rodri",
+    "club": "Manchester City",
+    "position": "Volante",
+    "nationality": "Espanhola",
+    "statistics": {
+      "matches": 7,
+      "goals": 1,
+      "assists": 2,
+      "shotsOnTarget": 3,
+      "yellowCards": 2,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "position": "Atacante",
+    "nationality": "Egípcia",
+    "statistics": {
+      "matches": 9,
+      "goals": 5,
+      "assists": 3,
+      "shotsOnTarget": 13,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 11,
+    "name": "Virgil van Dijk",
+    "club": "Liverpool",
+    "position": "Zagueiro",
+    "nationality": "Neerlandesa",
+    "statistics": {
+      "matches": 8,
+      "goals": 1,
+      "assists": 0,
+      "shotsOnTarget": 2,
+      "yellowCards": 2,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 12,
+    "name": "Alisson Becker",
+    "club": "Liverpool",
+    "position": "Goleiro",
+    "nationality": "Brasileira",
+    "statistics": {
+      "matches": 8,
+      "goals": 0,
+      "assists": 0,
+      "shotsOnTarget": 0,
+      "yellowCards": 0,
+      "redCards": 0,
+      "saves": 24,
+      "cleanSheets": 3
+    }
+  },
+  {
+    "id": 13,
+    "name": "Lamine Yamal",
+    "club": "Barcelona",
+    "position": "Atacante",
+    "nationality": "Espanhola",
+    "statistics": {
+      "matches": 9,
+      "goals": 4,
+      "assists": 4,
+      "shotsOnTarget": 11,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 14,
+    "name": "Pedri",
+    "club": "Barcelona",
+    "position": "Meio-campista",
+    "nationality": "Espanhola",
+    "statistics": {
+      "matches": 8,
+      "goals": 1,
+      "assists": 3,
+      "shotsOnTarget": 4,
+      "yellowCards": 2,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 15,
+    "name": "Robert Lewandowski",
+    "club": "Barcelona",
+    "position": "Atacante",
+    "nationality": "Polonesa",
+    "statistics": {
+      "matches": 9,
+      "goals": 5,
+      "assists": 1,
+      "shotsOnTarget": 12,
+      "yellowCards": 0,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 16,
+    "name": "Lautaro Martínez",
+    "club": "Inter de Milão",
+    "position": "Atacante",
+    "nationality": "Argentina",
+    "statistics": {
+      "matches": 8,
+      "goals": 4,
+      "assists": 1,
+      "shotsOnTarget": 10,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 17,
+    "name": "Nicolò Barella",
+    "club": "Inter de Milão",
+    "position": "Meio-campista",
+    "nationality": "Italiana",
+    "statistics": {
+      "matches": 8,
+      "goals": 1,
+      "assists": 3,
+      "shotsOnTarget": 4,
+      "yellowCards": 2,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 18,
+    "name": "Raphinha",
+    "club": "Barcelona",
+    "position": "Atacante",
+    "nationality": "Brasileira",
+    "statistics": {
+      "matches": 9,
+      "goals": 6,
+      "assists": 3,
+      "shotsOnTarget": 15,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 19,
+    "name": "Bukayo Saka",
+    "club": "Arsenal",
+    "position": "Atacante",
+    "nationality": "Inglesa",
+    "statistics": {
+      "matches": 8,
+      "goals": 3,
+      "assists": 3,
+      "shotsOnTarget": 9,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 20,
+    "name": "Declan Rice",
+    "club": "Arsenal",
+    "position": "Meio-campista",
+    "nationality": "Inglesa",
+    "statistics": {
+      "matches": 8,
+      "goals": 1,
+      "assists": 2,
+      "shotsOnTarget": 3,
+      "yellowCards": 2,
+      "redCards": 0
+    }
+  },
+  {
+    "id": 21,
+    "name": "Vinícius Júnior",
+    "club": "Real Madrid",
+    "position": "Atacante",
+    "nationality": "Brasileiro",
+    "statistics": {
+      "goals": 5,
+      "assists": 3,
+      "matches": 8
+    }
+  }
+]
